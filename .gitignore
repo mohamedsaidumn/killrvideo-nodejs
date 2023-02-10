@@ -1,0 +1,20 @@
+# Logs
+logs
+*.log
+npm-debug.log.*
+
+# Dependency directory
+# https://docs.npmjs.com/misc/faq#should-i-check-my-node-modules-folder-into-git
+node_modules
+
+# VS Code stuff
+/typings
+
+# Build and package output
+/dist
+
+# Docker .env settings
+.env
+
+# Webstorm/IDEA
+.idea
